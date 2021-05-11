@@ -10,3 +10,6 @@ This application allows users to draw an uppercase character in a canvas and con
 
 # Application
 [Link to Application](https://writein-char-recognition.herokuapp.com/)
+
+#Dataset
+[Link to Dataset](https://www.kaggle.com/ashishguptajiit/handwritten-az)
