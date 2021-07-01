@@ -12,9 +12,7 @@ This application allows users to draw an uppercase character in a canvas
 ```
 
 # Application
-```
 [Link to Application](https://writein-char-recognition.herokuapp.com/)
-```
 ![](./WriteIn_Application/images/image1.png)
 
 # Dataset
