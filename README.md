@@ -1,15 +1,19 @@
 # WriteIn-Machine-Learning
 ```
-This application allows users to draw an uppercase character in a canvas and converts the drawn character into digital text
+This application allows users to draw an uppercase character in a canvas
+ and converts the drawn character into digital text.
 ```
 
-# Teams
-- Rupesh Panta (Some part of CNN and Saving Model)
-- Bransen Lewis (Machine Learning Models and Some part of CNN)
-- Bishal Khadka (Application)
+# How to run the application
+```
+1. Clone the application
+2. Go to WriteIn Application
+3. Run app.py (command to run: python3 app.py)
+```
 
 # Application
 [Link to Application](https://writein-char-recognition.herokuapp.com/)
+![](Desktop/s1.png)
 
 # Dataset
 [Link to Dataset](https://www.kaggle.com/ashishguptajiit/handwritten-az)
