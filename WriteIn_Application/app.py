@@ -29,7 +29,8 @@ def index_view():
 
 
 @app.route('/Predict', methods=['POST'])
-def prediction():
+def prediction(): 
+    print('delete this line')
     if request.method == 'POST':
         data = request.get_json()
         imagebase64 = data['image']
